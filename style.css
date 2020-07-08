@@ -1,0 +1,56 @@
+a {
+    color: #0077dd;
+    text-decoration: none;
+    line-height: 95px;
+    font-size: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+p {
+    font-size: 20px;
+    color: #2d2d2d;
+    font-family: Open Sans, sans-serif;
+    line-height: 28px;
+    margin: 20px 100px;
+    max-width: 900px;
+    float: center;
+}
+button {
+    color: #fff;
+    font-family: open sans;
+    font-size: 20px;
+    border: none;
+    border-radius: 3px;
+    background: #0077DD;
+    width: 200px;
+    height: 60px;
+}
+body {
+    font-family: open sans;
+}
+input {
+    border: 1px solid #cccccc;
+    height: 35px;
+    width: 300px;
+    border-radius: 2px;
+}
+input:focus {
+    box-shadow: 0 0 5px 0 #0077DD;
+}
+.alertBody {
+    background: #2d2d2d;
+    border: 1px solid #222222;
+    border-radius: 5px;
+    max-height: 100000px;
+    width: 500px;
+    line-height: 30px;
+    color: #eee;
+    min-height: 30px;
+}
+.alertName {
+    font-size: 17px;
+    color: #0066dd;
+    border-top: 1px solid #DEDEDE;
+}
+.alertTime {
+    font-size: 17px;
+}
